@@ -38,13 +38,17 @@ The UAE's hospitality industry faces significant challenges in forecasting F&B d
 ---
 
 .
-
-##📈 Model Evaluation
+## 📈 Model Evaluation
 
 The model is evaluated using the following metrics:
-- MAE (Mean Absolute Error)
-- RMSE (Root Mean Squared Error)
-- MAPE (Mean Absolute Percentage Error)
+
+- **MAE (Mean Absolute Error)**: Measures the average magnitude of the errors in the predictions, without considering their direction. It’s the sum of the absolute errors divided by the number of predictions.
+  
+- **RMSE (Root Mean Squared Error)**: A widely used metric that penalizes large errors more heavily than smaller ones, calculated by taking the square root of the average of the squared differences between predicted and actual values.
+
+- **MAPE (Mean Absolute Percentage Error)**: Represents the percentage difference between predicted and actual values. It’s calculated as the average of the absolute percentage differences between actual and predicted values.
+
+
 
 
 
