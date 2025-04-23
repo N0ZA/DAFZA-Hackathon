@@ -41,7 +41,7 @@ The UAE's hospitality industry faces significant challenges in forecasting F&B d
 
 The model is evaluated using the following metrics:
 
-- **MAE (Mean Absolute Error)**: Measures the average magnitude of the errors in the predictions, without considering their direction. It’s the sum of the absolute errors divided by the number of predictions.
+- **MAE (Mean Absolute Error)**: Measures the average magnitude of the prediction errors, without considering its direction. It’s the sum of the absolute errors divided by the number of predictions.
   
 - **RMSE (Root Mean Squared Error)**: A widely used metric that penalizes large errors more heavily than smaller ones, calculated by taking the square root of the average of the squared differences between predicted and actual values.
 
