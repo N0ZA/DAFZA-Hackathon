@@ -37,6 +37,16 @@ The UAE's hospitality industry faces significant challenges in forecasting F&B d
 
 ---
 
-## 📁 Repository Structure
+.
 
-├── data/ # Contains the 3 CSVs (products, weekly_operational_data, weekly_demand) ├── notebooks/ # Jupyter notebooks for exploration and model training ├── scripts/ # Python scripts for data processing, model training, and evaluation ├── app/ (optional) # Optional dashboard if desired ├── README.md # Project documentation └── requirements.txt # Python dependencies
+##📈 Model Evaluation
+
+The model is evaluated using the following metrics:
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- MAPE (Mean Absolute Percentage Error)
+
+
+
+
+
