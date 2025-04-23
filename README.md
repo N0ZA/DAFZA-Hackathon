@@ -37,7 +37,6 @@ The UAE's hospitality industry faces significant challenges in forecasting F&B d
 
 ---
 
-.
 ## 📈 Model Evaluation
 
 The model is evaluated using the following metrics:
