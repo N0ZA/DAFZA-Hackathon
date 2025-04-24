@@ -1,5 +1,8 @@
 # AI-Powered F&B Demand Forecasting for UAE Hotels
 
+## 🌐 Live Demo  
+🔗 [Click here to try the project](https://6wtjnjtpwcojnvbidd9ajz.streamlit.app/)
+
 ## 🚀 Project Overview
 
 This project aims to **predict Food & Beverage (F&B) demand** for hotels in the UAE using machine learning (ML) techniques. By forecasting demand more accurately, we aim to optimize procurement, reduce waste, and enhance overall operational efficiency in hotel kitchens and restaurants. This model leverages historical data from products, operational data, and weekly demand to create reliable predictions for perishable goods.
