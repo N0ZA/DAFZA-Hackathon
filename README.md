@@ -31,7 +31,7 @@ The UAE's hospitality industry faces significant challenges in forecasting F&B d
 ## 🛠️ Tech Stack
 
 - **Python** (pandas, numpy, scikit-learn, lightgbm, hijri-converter)
-- **Matplotlib** and **Seaborn** for visualizations
+- **Matplotlib** for visualizations
 - **Jupyter Notebooks** for exploration and experimentation
 - **Scikit-learn** for model training, splitting, and evaluation
 
